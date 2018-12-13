@@ -1,15 +1,4 @@
 {
-    "airportsFields": [
-        "name",
-        "city",
-        "country",
-        "longitude",
-        "latitude"
-    ],
-    "airlineFields": [
-        "name",
-        "country"
-    ],
     "airports": [
         [
             "Goroka",
