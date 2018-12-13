@@ -1,20 +1,18 @@
 {
-    "sites": [
-        [
-            "1500 Louisiana St",
+    "sites": {
+        "1500 Louisiana St": [
             "Houston",
             "United States",
             -95.371242,
             29.754626
         ],
-        [
-            "NADC",
+        "NADC": [
             "San Antonio",
             "United States",
             -98.695709,
             29.479165
         ]
-    ],
+    },
     "routes": [
         [
             0,
