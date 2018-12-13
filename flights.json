@@ -17,6 +17,18 @@
             "United States",
             -95.3676974,
             29.7589382
+        ],
+        "DALQX3": [
+            "Dallas",
+            "United States",
+            -96.7968559,
+            32.7762719
+        ],
+        "AMSQX3": [
+            "Amsterdam",
+            "Netherlands",
+            4.897995603,
+            52.374436
         ]
     },
     "routes": [
@@ -29,6 +41,26 @@
             0,
             "1500 Louisiana St",
             "HOU517"
+        ],
+        [
+            0,
+            "1500 Louisiana St",
+            "DALQX3"
+        ],
+        [
+            0,
+            "DALQX3",
+            "HOU517"
+        ],
+        [
+            0,
+            "DALQX3",
+            "NADC"
+        ],
+        [
+            0,
+            "DALQX3",
+            "AMSQX3"
         ]
     ]
 }
